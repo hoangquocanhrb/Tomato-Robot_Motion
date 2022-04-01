@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hqanh/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/hqanh/catkin_ws/src/beginner_tutorials/include/**",
+                "/home/hqanh/catkin_ws/src/learning_tf/include/**",
+                "/home/hqanh/catkin_ws/src/my_robot/include/**",
+                "/home/hqanh/catkin_ws/src/r2d2/include/**",
+                "/home/hqanh/catkin_ws/src/robot_setup_tf/include/**",
+                "/home/hqanh/catkin_ws/src/using_markers/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
